@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="AD310PC.exe" version="1.0.0.2" publicKeyToken="dac71e80c2eecdf4" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="1330501765_communication.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="AD310PC" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="AD310PC.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet class="System.Security.PermissionSet" version="1" ID="Custom" SameSite="site" Unrestricted="true" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC 매니페스트 옵션
+          Windows 사용자 계정 컨트롤 수준을 변경하려면 
+          requestedExecutionLevel 노드를 다음 중 하나로 바꾸십시오.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         이전 버전과의 호환성을 위해 파일 및 레지스트리 가상화를 사용하려면 
+         requestedExecutionLevel 노드를 삭제하십시오.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="4" minorVersion="10" buildNumber="0" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AD310PC.exe" size="297984">
+      <assemblyIdentity name="AD310PC" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>ziAm1vZQM5THLF7hC1hCyqpcBG0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="1330501765_communication.ico" size="5430">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>xS7OAOitpAiIaCDbnXC1mysV+AU=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=PSH-PC\PSH" issuerKeyHash="2add326a4f3a02a8f8b3d339a3143f8c7cae2d2f" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>a9p8Ss0ry5MtugeOH2VDseEKPsA=</DigestValue></Reference></SignedInfo><SignatureValue>D9eGcjCA4pIIC1L3tAbtH4pSRgiw3zWZct2GXvKGPoi5x0WMNxbGN/9qKscJP3oNpzIu9jDN4hCLTQalEP3O6KJTLXfmkgFcQj8AGyNUf2c/H0wA3YiR1nzwAKp+5IYYLnCdV0l2HwOkoefzHkAWQNPAWLykn5TRR5/jg/Xmnmc=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>yDZbQIKyhMeBqyOdnyHnG49pT9weDZlAAUMSfXG4dEmeS2jx4uNn36+tiwAl1XKY38rAjqJ7erF9rUb2BmikXBvEwbUZtmVOkdeZSE1Mm6QB+4HxG26KRPb4Oes7NbhMQfHLVIFpyTMlLAm4iLppxy3rv+O9+ldr7ec9YBBIw6s=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="c03e0ae1b143651f8e07ba2d93cb2bcd4a7cda6b" Description="" Url=""><as:assemblyIdentity name="AD310PC.exe" version="1.0.0.2" publicKeyToken="dac71e80c2eecdf4" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=PSH-PC\PSH</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>f24MFhAerWjntQO8D03feY2JEQg=</DigestValue></Reference></SignedInfo><SignatureValue>RQ9pO580cP6KqHAS60sYAOOk3iQUuz67yWd4njStYmi0HDNHCPk4SVbl0r3OHt8BJMvKq5IDthDu0AN6WQhMaO3z7chXTayeI3u98qMUCmRKwx+afhJkqkCItiiKBMlVvL4lhjawEtRHFwq9GVJwtxA/OMNLl5U64HmdaOaV3FU=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>yDZbQIKyhMeBqyOdnyHnG49pT9weDZlAAUMSfXG4dEmeS2jx4uNn36+tiwAl1XKY38rAjqJ7erF9rUb2BmikXBvEwbUZtmVOkdeZSE1Mm6QB+4HxG26KRPb4Oes7NbhMQfHLVIFpyTMlLAm4iLppxy3rv+O9+ldr7ec9YBBIw6s=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBwTCCASqgAwIBAgIQQ+70n64+JalFOIXDYu79CDANBgkqhkiG9w0BAQUFADAfMR0wGwYDVQQDHhQAUABTAEgALQBQAEMAXABQAFMASDAeFw0xMjAyMjgyMzUzMDFaFw0xMzAyMjgwNTUzMDFaMB8xHTAbBgNVBAMeFABQAFMASAAtAFAAQwBcAFAAUwBIMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDINltAgrKEx4GrI52fIecbj2lP3B4NmUABQxJ9cbh0SZ5LaPHi42ffr62LACXVcpjfysCOont6sX2tRvYGaKRcG8TBtRm2ZU6R15lITUybpAH7gfEbbopE9vg56zs1uExB8ctUgWnJMyUsCbiIumnHLeu/4736V2vt5z1gEEjDqwIDAQABMA0GCSqGSIb3DQEBBQUAA4GBAEyfeBr9anq+jhoUp5sDfyYl6TIhAbkTcf9XecXDHtY6BXTlA8v2Cx7umJLHG4R94JCIQUz2CDbHbxmqIQMlPkdkzrQeBzGSQ8ihepsRoQ9wZ7iifTpR/Ys54W+lSXr1K9F1Q7jhOTlKmolStWlgYoG9Yan3G1ONCYwjhoax4m/E</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

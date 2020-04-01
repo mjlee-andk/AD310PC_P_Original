@@ -1,0 +1,18 @@
+1. 먼저 새 창 개체를 하나 생성한다. 해당 클래스의 이름을 NewForm 이라고 하면, 
+
+ NewForm oNewForm = new NewForm();
+ 
+ oNewForm.Owner = this;
+ oNewForm.ShowDialog(); <-- 혹은 oNewForm.Show()
+ 
+ 와 같이 새 창을 띄울 수 있다. 이 때 ShowDialog() 와 Show() 의 차이는 새 창이 모달리스 창인가 모달 창인가이다.
+ 
+ 새롭게 뜬 새 창(자식 창)에서 ParentForm 이라는 클래스로 정의된 원래 창(부모 창)을 제어하려면 제어하려는 개체를 private 가 아닌 public 으로 고친 뒤 새 창에서,
+ 
+ ParentForm oParentform = (ParentForm)this.Owner;
+ 
+ oParent.(부모 창의 개체)
+ 
+ 와 같이 이용할 수 있다.
+ 
+ 물론 새 창을 열 때, 새 창의 클래스에서 생성자를 조작함으로써 인자값을 넘길 수도 있으므로, 적절히 잘 이용하면 된다. 

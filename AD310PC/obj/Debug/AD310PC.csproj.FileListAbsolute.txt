@@ -1,0 +1,46 @@
+C:\WORK\NET Project\AD310PC\AD310PC\bin\Debug\AD310PC.exe.manifest
+C:\WORK\NET Project\AD310PC\AD310PC\bin\Debug\AD310PC.application
+C:\WORK\NET Project\AD310PC\AD310PC\bin\Debug\AD310PC.exe
+C:\WORK\NET Project\AD310PC\AD310PC\bin\Debug\AD310PC.pdb
+C:\WORK\NET Project\AD310PC\AD310PC\obj\Debug\ResolveAssemblyReference.cache
+C:\WORK\NET Project\AD310PC\AD310PC\obj\Debug\AD310AD.Form1.resources
+C:\WORK\NET Project\AD310PC\AD310PC\obj\Debug\AD310AD.Form2.resources
+C:\WORK\NET Project\AD310PC\AD310PC\obj\Debug\AD310AD.Properties.Resources.resources
+C:\WORK\NET Project\AD310PC\AD310PC\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\WORK\NET Project\AD310PC\AD310PC\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\WORK\NET Project\AD310PC\AD310PC\obj\Debug\AD310PC.TrustInfo.xml
+C:\WORK\NET Project\AD310PC\AD310PC\obj\Debug\AD310PC.exe.manifest
+C:\WORK\NET Project\AD310PC\AD310PC\obj\Debug\AD310PC.application
+C:\WORK\NET Project\AD310PC\AD310PC\obj\Debug\AD310PC.exe
+C:\WORK\NET Project\AD310PC\AD310PC\obj\Debug\AD310PC.pdb
+C:\WORK\NET_Project\AD310PC\AD310PC\obj\Debug\AD310PC.exe
+C:\WORK\NET_Project\AD310PC\AD310PC\obj\Debug\AD310PC.pdb
+Z:\이전 근무자 자료\박승현\NET_Project\AD310PC\AD310PC\obj\Debug\AD310PC.exe
+Z:\이전 근무자 자료\박승현\NET_Project\AD310PC\AD310PC\obj\Debug\AD310PC.pdb
+Z:\이전 근무자 자료\박승현\NET_Project\AD310PC\AD310PC\obj\Debug\AD310PC.csprojResolveAssemblyReference.cache
+Z:\이전 근무자 자료\박승현\NET_Project\AD310PC\AD310PC\obj\Debug\AD310AD.Form1.resources
+Z:\이전 근무자 자료\박승현\NET_Project\AD310PC\AD310PC\obj\Debug\AD310AD.Form2.resources
+Z:\이전 근무자 자료\박승현\NET_Project\AD310PC\AD310PC\obj\Debug\AD310AD.Properties.Resources.resources
+Z:\이전 근무자 자료\박승현\NET_Project\AD310PC\AD310PC\obj\Debug\AD310PC.csproj.GenerateResource.Cache
+Z:\이전 근무자 자료\박승현\NET_Project\AD310PC\AD310PC\obj\Debug\AD310PC.TrustInfo.xml
+C:\work\AD310PC_P\AD310PC\obj\Debug\AD310PC.exe
+C:\work\AD310PC_P\AD310PC\obj\Debug\AD310PC.pdb
+C:\work\AD310PC_P\AD310PC\bin\Debug\AD310PC.exe.manifest
+C:\work\AD310PC_P\AD310PC\bin\Debug\AD310PC.application
+C:\work\AD310PC_P\AD310PC\bin\Debug\AD310PC.exe
+C:\work\AD310PC_P\AD310PC\bin\Debug\AD310PC.pdb
+C:\work\AD310PC_P\AD310PC\obj\Debug\AD310AD.Form1.resources
+C:\work\AD310PC_P\AD310PC\obj\Debug\AD310AD.Form2.resources
+C:\work\AD310PC_P\AD310PC\obj\Debug\AD310AD.Properties.Resources.resources
+C:\work\AD310PC_P\AD310PC\obj\Debug\AD310PC.csproj.GenerateResource.Cache
+C:\work\AD310PC_P\AD310PC\obj\Debug\AD310PC.TrustInfo.xml
+C:\work\AD310PC_P\AD310PC\obj\Debug\AD310PC.exe.manifest
+C:\work\AD310PC_P\AD310PC\obj\Debug\AD310PC.application
+C:\work\AD310PC_P\AD310PC\obj\Debug\AD310PC.csprojResolveAssemblyReference.cache
+G:\내 드라이브\업무\WorkSpace\AD310PC_P\AD310PC\obj\Debug\AD310PC.csprojAssemblyReference.cache
+G:\내 드라이브\업무\WorkSpace\AD310PC_P\AD310PC\obj\Debug\AD310AD.Form1.resources
+G:\내 드라이브\업무\WorkSpace\AD310PC_P\AD310PC\obj\Debug\AD310AD.Form2.resources
+G:\내 드라이브\업무\WorkSpace\AD310PC_P\AD310PC\obj\Debug\AD310AD.Properties.Resources.resources
+G:\내 드라이브\업무\WorkSpace\AD310PC_P\AD310PC\obj\Debug\AD310PC.csproj.GenerateResource.cache
+G:\내 드라이브\업무\WorkSpace\AD310PC_P\AD310PC\obj\Debug\AD310PC.exe
+G:\내 드라이브\업무\WorkSpace\AD310PC_P\AD310PC\obj\Debug\AD310PC.pdb

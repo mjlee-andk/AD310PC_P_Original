@@ -1,0 +1,15 @@
+C:\WORK\NET Project\AD310PC\AD310PC\bin\Release\AD310PC.exe.manifest
+C:\WORK\NET Project\AD310PC\AD310PC\bin\Release\AD310PC.application
+C:\WORK\NET Project\AD310PC\AD310PC\bin\Release\AD310PC.exe
+C:\WORK\NET Project\AD310PC\AD310PC\bin\Release\AD310PC.pdb
+C:\WORK\NET Project\AD310PC\AD310PC\obj\Release\ResolveAssemblyReference.cache
+C:\WORK\NET Project\AD310PC\AD310PC\obj\Release\AD310AD.Form1.resources
+C:\WORK\NET Project\AD310PC\AD310PC\obj\Release\AD310AD.Form2.resources
+C:\WORK\NET Project\AD310PC\AD310PC\obj\Release\AD310AD.Properties.Resources.resources
+C:\WORK\NET Project\AD310PC\AD310PC\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\WORK\NET Project\AD310PC\AD310PC\obj\Release\GenerateResource-ResGen.write.1.tlog
+C:\WORK\NET Project\AD310PC\AD310PC\obj\Release\AD310PC.TrustInfo.xml
+C:\WORK\NET Project\AD310PC\AD310PC\obj\Release\AD310PC.exe.manifest
+C:\WORK\NET Project\AD310PC\AD310PC\obj\Release\AD310PC.application
+C:\WORK\NET Project\AD310PC\AD310PC\obj\Release\AD310PC.exe
+C:\WORK\NET Project\AD310PC\AD310PC\obj\Release\AD310PC.pdb
